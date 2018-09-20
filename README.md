@@ -66,3 +66,4 @@ If everything was ok, you should be able to see files in your S3.
 ### TODO
 - ~~Add code to archive files in FTP~~
 - Add code to read files from S3, parse them and send them to API gateway
+- Add Secrets Manager
